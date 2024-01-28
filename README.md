@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin Kumar</h1>
-<h3 align="center">Unlocking the Power of Patterns: A Machine Learning Journe</h3>
+<h3 align="center">Unlocking the Power of Patterns: A Machine Learning Journey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin492&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin492" /> </p>
 
